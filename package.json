@@ -1,0 +1,17 @@
+{
+  "name": "mp3-comparer",
+  "version": "1.0.0",
+  "description": "Compares mp3 files while ignoring any id3 tags. Use on a directory to find duplicates.",
+  "main": "mp3sum.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mp3",
+    "id3"
+  ],
+  "author": "Christine Coenen",
+  "license": "MIT"
+}
